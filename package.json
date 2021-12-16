@@ -1,0 +1,13 @@
+{
+  "name": "vanilla-js-pokedex",
+  "version": "1.0.0",
+  "description": "Pokedex front-end application",
+  "main": "index.js",
+  "scripts": {},
+  "author": "JP Bernard",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.4.1"
+  },
+  "dependencies": {}
+}
