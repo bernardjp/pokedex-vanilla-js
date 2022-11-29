@@ -26,5 +26,5 @@
 <h2>Credits</h2>
 <ul>
   <li>You can visit <a href="https://argentinaprograma.com" target="_blank">r/Argentina Programa</a> to access the ongoing course for free.</li>
-  <li>An alternative and more fleshed out version of this project (built in ReactJS) can be found <a href="https://github.com/bernardjp/pokedex" target="_blank">here</a>.</li>
+  <li>An alternative and more fleshed out version of this project (built in ReactJS) can be found <a href="https://github.com/bernardjp/pokedex-react" target="_blank">here</a>.</li>
 </ul>
